@@ -17,3 +17,5 @@
 **1. Histórico, ferramentas e terminologia**
 
 **2. Marcação HTML**
+
+**3. Elementos HTML**
